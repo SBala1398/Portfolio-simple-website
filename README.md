@@ -12,8 +12,4 @@ Welcome to my simple portfolio website! This repository contains the code for my
 - **HTML:** Used for structuring the content of the web pages.
 - **CSS:** Employed for styling and layout.
 
-## How to Run Locally
-
-To run this website locally, follow these steps:
-
 thank you for visiting my portfolio website .
